@@ -26,10 +26,6 @@ The tools automate the download of necessary dependencies like OpenOCD and fw-lo
 ## Prerequisites
 
 -   Python 3.6+
--   The `requests` library. You can install it using pip:
-    ```bash
-    pip install requests
-    ```
 -   The `tkinter` library for the GUI, which is usually included with standard Python installations. If not, you can install it using your system's package manager (e.g., `sudo apt-get install python3-tk` on Debian/Ubuntu).
 
 ## Usage
